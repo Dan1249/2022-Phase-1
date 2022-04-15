@@ -103,8 +103,8 @@ As you go through and do these modules, you'll find that you need quite a few to
 
 - [ ] Required Tools
   - [ ] [Node.JS](https://nodejs.org/en/)
-  - [ ] [Git](https://git-scm.com/)
-  - [ ] [Python](https://www.python.org/downloads/)
+  - [x] [Git](https://git-scm.com/)
+  - [x] [Python](https://www.python.org/downloads/)
   - [ ] [React](https://reactjs.org/docs/create-a-new-react-app.html)
   - [ ] [.NET](https://dotnet.microsoft.com/en-us/download)
 - [ ] Development Environments
